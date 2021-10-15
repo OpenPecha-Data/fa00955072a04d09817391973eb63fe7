@@ -1,0 +1,14 @@
+segment_sources:
+  60fd5479732e475dbbd7254f178281c9:
+    type: translation
+    lang: bo
+  1d252e7bd6f44269a1e959d07f8ec7ab:
+    type: translation
+    lang: en
+segment_pairs:
+  d6b52426c15c44729ee3c92d52de2cc5:
+    60fd5479732e475dbbd7254f178281c9: e9cd74c5c7864a028614c75bd5c53191
+    1d252e7bd6f44269a1e959d07f8ec7ab: ec27b4ebc10540d7bbad6e3350f2df2f
+  8000a5828a514bffb9c34f71dfb370ef:
+    60fd5479732e475dbbd7254f178281c9: 8ef00f1444e8402fb0b842041a1bf0f5
+    1d252e7bd6f44269a1e959d07f8ec7ab: ea36501a57f04306b2af551e6b58a1d8
